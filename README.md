@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d0k7 (Dheeraj Mishra)
-- 👀 I’m interested in Coding, Data Science, Data Analytics, Machine Learning, Space, Cosmos, Algorithm Designing, VR,3D Modelling.
+- 👀 I’m interested in Coding, Data Science, Data Analytics, Machine Learning, Deep Learning, DSA, Software Development and System Design.
 - 🌱 I’m currently learning R for Data Science, Machine Learning, NLP, Artifical Intelligence, Data Visualization, Data Analysis.
 - 💞️ I’m looking to collaborate on ML and NLP projects
 - 📫 How to reach me  mishrakumardheeraj@gmail.com 
