@@ -10,7 +10,7 @@
       .....:.              .:.....         Role      AI/ML Engineer | Data Scientist | SDE
      ...:::.                 ::....        Base      Mumbai, India
     ...::::     ..:-==+==:   .:::...       Degree    B.Tech (Hons.) CSE, Data Science
-   ...:::::   =*#%%@@@@@@*.   .:::....     CGPA      8.18 / 10
+   ...:::::   =*#%%@@@@@@*.   .:::....     
   ...::::--. =%%@@@@@@@@@%:    ::::...
  ...:::::--: ##*#%%%+--=*%#:  .-::::...    Research  IEEE TCBB 2025 | Continual Learning
  ...::::-----=::.+%#::--=*%*..--::::...    Work      IIT-BHU | IIT Bhilai | IIT Patna
@@ -27,7 +27,7 @@
    ....::::-----.          :----:.:::---
     ....::::-==+:         ::--::...:::::   GitHub    68 total repos | 8 stars | 5 followers
      ....:-==---         ::::::.........   LinkedIn  /in/dheeraj-mishra-535784249
-      ...--:::-.        :::::::.........   Email     linkedindheerajmishra07@gmail.com
+      ...--:::-.        :::::::.........   Email     githubdheerajmishra@gmail.com
        ......--        :::::::......  ..   Status    Open to AI/ML, Data Science and SDE roles
 ```
 
