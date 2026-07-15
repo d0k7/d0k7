@@ -61,7 +61,7 @@ Second author and lead implementer on an **IEEE Transactions on Computational Bi
 
 ## `$ ls projects/`
 
-- **SocialSpace:** An in-development autonomous social media agent targeting 12 platforms, built on the Hive framework.
+- **SocialSpace:** An in-development autonomous social media agent targeting 12 platforms.
 - **PriorArt:** An in-development a continual-learning knowledge graph built with NetworkX, Groq, Pydantic, and GitHub Actions.
 
 ## `$ cat competitive.log`
