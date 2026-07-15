@@ -25,7 +25,7 @@
   ...::::------=:.=-:.       :--=--::..    ML/Data   PyTorch | ChemBERTa | PySpark | Airflow
    ...::::------  :-.       :----:-----:   Infra     Docker | PostgreSQL | SQLite | GitHub Actions
    ....::::-----.          :----:.:::---
-    ....::::-==+:         ::--::...:::::   GitHub    68 total repos | 8 stars | 5 followers
+    ....::::-==+:         ::--::...:::::   GitHub    68 total repos | 8 stars
      ....:-==---         ::::::.........   LinkedIn  /in/dheeraj-mishra-535784249
       ...--:::-.        :::::::.........   Email     githubdheerajmishra@gmail.com
        ......--        :::::::......  ..   Status    Open to AI/ML, Data Science and SDE roles
