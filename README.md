@@ -62,17 +62,16 @@ Second author and lead implementer on an **IEEE Transactions on Computational Bi
 ## `$ ls projects/`
 
 - **SocialSpace:** An in-development autonomous social media agent targeting 12 platforms, built on the Hive framework.
-- **PriorArt:** A continual-learning knowledge graph built with NetworkX, Groq, Pydantic, and GitHub Actions.
-- **[Hive](https://github.com/aden-hive/hive):** Open-source contributor, including a merged TypeScript/Bun integration with an optional Groq planning layer.
+- **PriorArt:** An in-development a continual-learning knowledge graph built with NetworkX, Groq, Pydantic, and GitHub Actions.
 
 ## `$ cat competitive.log`
 
-- **LeetCode:** [`DJACE07`](https://leetcode.com/u/DJACE07/)
-- **Codeforces:** [`DJcodeforces`](https://codeforces.com/profile/DJcodeforces)
+- **LeetCode:** [`Locus7`](https://leetcode.com/u/Locus7/)
+- **Codeforces:** [`Locus7`](https://codeforces.com/profile/Locus7)
 - **IMC Prosperity 04:** Approximately **2,964th globally**.
 
 ## `$ echo $CONTACT`
 
-[Email](mailto:linkedindheerajmishra07@gmail.com) · [LinkedIn](https://www.linkedin.com/in/dheeraj-mishra-535784249/) · [GitHub](https://github.com/d0k7)
+[Email](mailto:githubdheerajmishra@gmail.com) · [LinkedIn](https://www.linkedin.com/in/dheeraj-mishra-535784249/) · [GitHub](https://github.com/d0k7)
 
 <sub>Terminal layout inspired by <a href="https://github.com/Andrew6rant/Andrew6rant">Andrew Grant's profile README</a>.</sub>
