@@ -73,5 +73,3 @@ Second author and lead implementer on an **IEEE Transactions on Computational Bi
 ## `$ echo $CONTACT`
 
 [Email](mailto:githubdheerajmishra@gmail.com) · [LinkedIn](https://www.linkedin.com/in/dheeraj-mishra-535784249/) · [GitHub](https://github.com/d0k7)
-
-<sub>Terminal layout inspired by <a href="https://github.com/Andrew6rant/Andrew6rant">Andrew Grant's profile README</a>.</sub>
