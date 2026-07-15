@@ -21,7 +21,7 @@
 ....:::------+*=:=**##*****++---:::::...   Stack     FastAPI | React | NetworkX | Groq
  ...:::------===+*++#%#*+=-:*:--::::....   Deploy    dodge-fde-eight.vercel.app
  ...::::---------=***+=-:. .  --:::::..
- ....::::-------::...         ---:::...    Code      Python | TypeScript | JavaScript | SQL
+ ....::::-------::...         ---:::...    Code      Python | C++ | TypeScript | JavaScript | SQL
   ...::::------=:.=-:.       :--=--::..    ML/Data   PyTorch | ChemBERTa | PySpark | Airflow
    ...::::------  :-.       :----:-----:   Infra     Docker | PostgreSQL | SQLite | GitHub Actions
    ....::::-----.          :----:.:::---
